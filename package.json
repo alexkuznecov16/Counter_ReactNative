@@ -22,5 +22,5 @@
         "@babel/core": "^7.20.0",
         "prettier": "3.0.3"
     },
-    "private": true
+    "private": false
 }
